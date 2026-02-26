@@ -17,6 +17,7 @@ MeshTalk is an Android messaging application designed to keep communication work
 
 
 
+
 ## ✨ Key Features
 - **Hybrid Communication**
   - Offline mode: BLE mesh (peer-to-peer + multi-hop forwarding)
